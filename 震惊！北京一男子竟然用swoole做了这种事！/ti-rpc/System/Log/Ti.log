@@ -1,0 +1,395 @@
+[2018-04-02 22:46:47 #3051.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-04-02 22:46:47 *3064.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-04-02 22:46:47 $3052.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-04-02 22:46:47 *3063.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-04-09 18:55:33 *2445.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Call to a member function send() on null in /Users/elarity/doum-service/System/Core.php on line 209.
+[2018-04-09 18:55:33 $2436.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=255, signal=0
+[2018-04-09 19:02:21 *2446.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Call to a member function send() on null in /Users/elarity/doum-service/System/Core.php on line 209.
+[2018-04-09 19:02:21 $2436.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2018-04-09 19:03:40 *2528.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Call to a member function send() on null in /Users/elarity/doum-service/System/Core.php on line 210.
+[2018-04-09 19:03:40 $2519.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=255, signal=0
+[2018-04-09 19:03:48 *2542.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Call to a member function send() on null in /Users/elarity/doum-service/System/Core.php on line 210.
+[2018-04-09 19:03:48 $2533.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=255, signal=0
+[2018-04-09 19:47:44 ^2925.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/Users/elarity/doum-service/Controller/.php' (include_path='.:') in /Users/elarity/doum-service/index.php on line 18.
+[2018-04-09 19:47:44 $2924.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-04-09 19:53:28 ^2973.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/Users/elarity/doum-service/Controller/.php' (include_path='.:') in /Users/elarity/doum-service/index.php on line 18.
+[2018-04-09 19:53:28 $2972.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-04-09 20:07:00 ^3074.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/Users/elarity/doum-service/Controller/.php' (include_path='.:') in /Users/elarity/doum-service/index.php on line 18.
+[2018-04-09 20:07:00 $3073.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-04-09 21:00:42 $3557.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=255, signal=0
+[2018-04-09 21:15:05 ^3678.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/Users/elarity/doum-service/Controller/.php' (include_path='.:') in /Users/elarity/doum-service/index.php on line 18.
+[2018-04-09 21:15:05 $3677.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-04-09 21:16:36 ^3723.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/Users/elarity/doum-service/Controller/.php' (include_path='.:') in /Users/elarity/doum-service/index.php on line 18.
+[2018-04-09 21:16:36 $3722.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-04-09 21:23:02 *3795.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Class 'System\Component\Packet' not found in /Users/elarity/doum-service/System/Core.php on line 294.
+[2018-04-09 21:23:03 $3786.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=255, signal=0
+[2018-04-09 22:40:49 ^828.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/Users/elarity/doum-service/Controller/User.php' (include_path='.:') in /Users/elarity/doum-service/index.php on line 18.
+[2018-04-09 22:40:49 ^827.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/Users/elarity/doum-service/Controller/User.php' (include_path='.:') in /Users/elarity/doum-service/index.php on line 18.
+[2018-04-09 22:40:49 ^829.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/Users/elarity/doum-service/Controller/Social.php' (include_path='.:') in /Users/elarity/doum-service/index.php on line 18.
+[2018-04-09 22:40:49 $825.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2018-04-09 22:40:49 $825.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2018-04-09 22:40:49 $825.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-04-09 22:46:45 ^832.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/Users/elarity/doum-service/Controller/Social.php' (include_path='.:') in /Users/elarity/doum-service/index.php on line 18.
+[2018-04-09 22:46:45 $825.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 ^29292.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29293.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29291.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29295.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29294.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29297.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29296.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29290.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 ^29300.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 ^29301.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29302.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29303.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29304.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29305.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29306.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 ^29307.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 ^29308.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 ^29309.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29310.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29311.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29312.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 ^29313.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29314.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 ^29315.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29316.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 ^29317.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 ^29318.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29319.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 ^29320.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29321.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 ^29322.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:00 ^29323.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:00 $29287.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29324.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29325.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29326.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29328.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29327.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29329.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29330.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29331.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29341.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29342.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29343.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29344.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29345.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29346.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29347.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29348.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29349.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29350.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29351.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29352.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29353.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29354.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29355.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29356.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29358.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29359.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29357.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29360.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29362.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29361.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29364.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29365.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29363.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29366.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29367.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29368.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29369.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29370.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29371.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29372.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 ^29373.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29374.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 15:43:01 ^29375.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 15:43:01 $29287.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 17:39:02 ^6799.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Cannot use object of type swoole_http_server as array in /home/ubuntu/ti-rpc/index.php:57
+Stack trace:
+#0 /home/ubuntu/ti-rpc/System/Core.php(500): Gmu->process(Object(swoole_http_server), Array)
+#1 [internal function]: System\Core->task(Object(swoole_http_server), 0, 0, Array)
+#2 /home/ubuntu/ti-rpc/System/Core.php(251): swoole_http_server->start()
+#3 /home/ubuntu/ti-rpc/System/Core.php(175): System\Core->_run()
+#4 /home/ubuntu/ti-rpc/index.ph
+[2019-05-28 17:39:02 $6796.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:47:53 ^17620.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to a member function get() on null in /home/ubuntu/ti-rpc/Application/Controller/Account.php:35
+Stack trace:
+#0 /home/ubuntu/ti-rpc/index.php(62): Application\Controller\Account->mysql2excel(Array)
+#1 /home/ubuntu/ti-rpc/System/Core.php(500): Gmu->process(Object(swoole_http_server), Array)
+#2 [internal function]: System\Core->task(Object(swoole_http_server), 0, 0, Array)
+#3 /home/ubuntu/ti-rpc/System/Core.php(251): swoole_http_server->star
+[2019-05-28 19:47:53 $17617.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17702.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17701.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17700.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17704.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17703.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17706.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17707.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17705.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17710.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17711.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17713.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17712.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17715.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17714.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17716.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17717.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17718.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17719.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17720.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17721.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17723.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17724.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17722.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17725.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17727.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17726.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17728.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17729.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17730.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17731.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17732.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17733.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17734.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17735.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17737.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 ^17736.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:23 ^17738.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:23 $17697.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17739.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17740.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17741.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17742.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17743.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17744.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17745.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17746.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17747.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17748.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17749.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17750.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17752.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17751.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17753.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17754.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17755.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17756.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17758.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17757.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17759.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17760.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17761.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17762.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17763.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17764.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17765.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17766.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17767.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17768.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17769.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17770.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17771.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17772.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17773.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17774.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17775.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17776.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17778.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17777.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17779.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17780.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17781.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17782.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17784.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17783.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17785.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17786.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17787.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17788.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17789.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17790.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17791.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17793.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17792.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17794.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17795.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17796.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#8 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17798.6]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#9 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 ^17799.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17801.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17800.7]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17802.4]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17803.8]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17804.9]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 ^17805.5]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: require_once(): Failed opening required '/home/ubuntu/ti-rpc/Redis.php' (include_path='.:/usr/share/php') in /home/ubuntu/ti-rpc/index.php on line 26.
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=255, signal=0
+[2019-05-28 19:48:24 $17697.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=255, signal=0
