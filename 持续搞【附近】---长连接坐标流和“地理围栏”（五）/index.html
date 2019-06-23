@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <meta charset="utf-8">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>html5 lbs</title> 
+    <link rel="shortcut icon" type="image/ico" href="https://static.ti-node.com/fav.ico" />
+    <link rel="stylesheet" href="https://t.ti-node.com/static/default/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://t.ti-node.com/static/default/bootstrap/dist/css/main.css">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <script src="https://cdn.staticfile.org/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://t.ti-node.com/static/default/bootstrap/dist/js/bootstrap.min.js"></script>
+    </head>
+  <body>
+    <div class="container" style="margin-bottom:50px;">
+      <div class="col-md-12">
+        <div id="content" style="font-size:20px;color:red;"></div>
+      </div><!-- end col-md-12 END -->
+    </div><!-- end of main container -->
+		<script>
+			$( document ).ready( function() {
+
+				var ws    = new WebSocket("ws://t.ti-node.com:8000/");
+				ws.onopen = function( evt ) { 
+					console.log("Connection open ..."); 
+					//ws.send("Hello WebSockets!");
+				};
+				ws.onmessage = function( evt ) {
+					console.log( "Received Message: " + evt.data );
+          alert( evt.data );
+					//ws.close();
+				};
+				ws.onclose = function(evt) {
+					console.log("Connection closed.");
+				};  
+
+				if ( navigator.geolocation ) {  
+					function locationSuccess( position ) {  
+						var coords = position.coords;       
+            //alert( coords.latitude+':'+coords.longitude );
+            var coo = {
+              lat : coords.latitude,
+              lng : coords.longitude
+            };
+            //alert( JSON.stringify( coo ) );
+					  ws.send( JSON.stringify( coo ) );
+					}  
+					function locationError( error ){  
+						switch(error.code) {  
+							case error.TIMEOUT:  
+								console.log("A timeout occured! Please try again!");  
+								break;  
+							case error.POSITION_UNAVAILABLE:  
+								console.log('We can\'t detect your location. Sorry!');  
+								break;  
+							case error.PERMISSION_DENIED:  
+								console.log('Please allow geolocation access for this to work.');  
+								break;  
+							case error.UNKNOWN_ERROR:  
+								console.log('An unknown error occured!');  
+								break;  
+						}  
+					}  
+					var options = {
+						// 指示浏览器获取高精度的位置，默认为false  
+						enableHighAcuracy: true,  
+						// 指定获取地理位置的超时时间，默认不限时，单位为毫秒  
+						timeout: 5000,  
+						// 最长有效期，在重复获取地理位置时，此参数指定多久再次获取位置。  
+						maximumAge: 3000  
+					};
+          setInterval( function() {
+				    navigator.geolocation.getCurrentPosition( locationSuccess, locationError, options );  
+          }, 1000 );
+					// watchPosition只要设备位置发生变化，就会执行  
+					//var watcherId = navigator.geolocation.watchPosition( locationSuccess, locationError, options );  
+					//clearwatch用于终止watchPosition方法  
+					//navigator.geolocation.clearWatch( watcher_id );      
+				} else {  
+					alert("Your browser does not support Geolocation!");  
+				}  
+
+			} );
+		</script>
+
+</body>
+</html>
+
