@@ -1,0 +1,11 @@
+{
+		"autoload": {
+			  "psr-4": {
+				  	"System\\": "System",
+				  	"Application\\": "Application"
+				}
+		},
+		"require": {
+				"mongodb/mongodb": "^1.4"
+		}
+}

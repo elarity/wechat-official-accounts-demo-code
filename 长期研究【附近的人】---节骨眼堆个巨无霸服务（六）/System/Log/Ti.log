@@ -1,0 +1,34 @@
+[2019-08-17 19:39:56 *15208.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to undefined function dk_get_next_id() in /home/ubuntu/momo-service/System/Library/Function.php:42
+Stack trace:
+#0 /home/ubuntu/momo-service/System/Core.php(354): generateID()
+#1 [internal function]: System\Core->request(Object(swoole_http_request), Object(swoole_http_response))
+#2 /home/ubuntu/momo-service/System/Core.php(251): swoole_http_server->start()
+#3 /home/ubuntu/momo-service/System/Core.php(175): System\Core->_run()
+#4 /home/ubun
+[2019-08-17 19:39:56 $15192.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=255, signal=0
+[2019-08-17 20:05:18 ^18512.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class '\Application\V1\Controller\User' not found in /home/ubuntu/momo-service/index.php:107
+Stack trace:
+#0 /home/ubuntu/momo-service/System/Core.php(495): Gmu->process(Object(swoole_http_server), Array)
+#1 [internal function]: System\Core->task(Object(swoole_http_server), 0, 0, Array)
+#2 /home/ubuntu/momo-service/System/Core.php(251): swoole_http_server->start()
+#3 /home/ubuntu/momo-service/System/Core.php(175): System\Core->_run()
+#4 /home/u
+[2019-08-17 20:05:18 $18509.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-08-17 20:13:38 ^19485.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Cannot redeclare Application\Model\User::login() in /home/ubuntu/momo-service/Application/Model/User.php on line 472.
+[2019-08-17 20:13:38 $19482.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2019-08-17 20:14:06 ^19486.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Cannot redeclare Application\Model\User::login() in /home/ubuntu/momo-service/Application/Model/User.php on line 472.
+[2019-08-17 20:14:06 $19482.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-08-17 20:14:29 *19598.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught TypeError: Argument 1 passed to System\Component\Packet::encode() must be of the type array, null given, called in /home/ubuntu/momo-service/System/Core.php on line 560 and defined in /home/ubuntu/momo-service/System/Component/Packet.php:11
+Stack trace:
+#0 /home/ubuntu/momo-service/System/Core.php(560): System\Component\Packet::encode(NULL, 'http')
+#1 /home/ubuntu/momo-service/System/Core.php(366): System\Core->onHttpFinished(Object(swoole_http_server
+[2019-08-17 20:14:29 $19587.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=255, signal=0
+[2019-08-17 21:59:39 ^31201.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Cannot declare class Application\Model\User, because the name is already in use in /home/ubuntu/momo-service/Application/Model/Nearby.php on line 4.
+[2019-08-17 21:59:39 $31197.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-08-17 22:00:19 ^31364.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Call to undefined method Application\Model\Nearby::search() in /home/ubuntu/momo-service/Application/V1/Controller/Nearby.php:28
+Stack trace:
+#0 /home/ubuntu/momo-service/index.php(122): Application\V1\Controller\Nearby->index(Array)
+#1 /home/ubuntu/momo-service/System/Core.php(495): Gmu->process(Object(swoole_http_server), Array)
+#2 [internal function]: System\Core->task(Object(swoole_http_server), 0, 0, Array)
+#3 /home/ubuntu/momo-service/Sys
+[2019-08-17 22:00:19 $31361.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
